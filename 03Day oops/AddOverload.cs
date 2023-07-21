@@ -43,7 +43,7 @@ namespace _03Day_oops
     }
     class main1
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             int h = int.Parse(Console.ReadLine());
             int w = int.Parse(Console.ReadLine());
