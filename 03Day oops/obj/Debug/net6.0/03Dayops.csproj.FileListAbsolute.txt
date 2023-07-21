@@ -1,0 +1,15 @@
+L:\DotNet\03Day oops\bin\Debug\net6.0\03Dayops.exe
+L:\DotNet\03Day oops\bin\Debug\net6.0\03Dayops.deps.json
+L:\DotNet\03Day oops\bin\Debug\net6.0\03Dayops.runtimeconfig.json
+L:\DotNet\03Day oops\bin\Debug\net6.0\03Dayops.dll
+L:\DotNet\03Day oops\bin\Debug\net6.0\03Dayops.pdb
+L:\DotNet\03Day oops\obj\Debug\net6.0\03Dayops.csproj.AssemblyReference.cache
+L:\DotNet\03Day oops\obj\Debug\net6.0\03Dayops.GeneratedMSBuildEditorConfig.editorconfig
+L:\DotNet\03Day oops\obj\Debug\net6.0\03Dayops.AssemblyInfoInputs.cache
+L:\DotNet\03Day oops\obj\Debug\net6.0\03Dayops.AssemblyInfo.cs
+L:\DotNet\03Day oops\obj\Debug\net6.0\03Dayops.csproj.CoreCompileInputs.cache
+L:\DotNet\03Day oops\obj\Debug\net6.0\03Dayops.dll
+L:\DotNet\03Day oops\obj\Debug\net6.0\refint\03Dayops.dll
+L:\DotNet\03Day oops\obj\Debug\net6.0\03Dayops.pdb
+L:\DotNet\03Day oops\obj\Debug\net6.0\03Dayops.genruntimeconfig.cache
+L:\DotNet\03Day oops\obj\Debug\net6.0\ref\03Dayops.dll

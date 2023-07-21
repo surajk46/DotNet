@@ -1,0 +1,15 @@
+L:\DotNet\03Day oops\obj\Debug\net6.0\03Day oops.csproj.AssemblyReference.cache
+L:\DotNet\03Day oops\obj\Debug\net6.0\03Day oops.GeneratedMSBuildEditorConfig.editorconfig
+L:\DotNet\03Day oops\obj\Debug\net6.0\03Day oops.AssemblyInfoInputs.cache
+L:\DotNet\03Day oops\obj\Debug\net6.0\03Day oops.AssemblyInfo.cs
+L:\DotNet\03Day oops\obj\Debug\net6.0\03Day oops.csproj.CoreCompileInputs.cache
+L:\DotNet\03Day oops\bin\Debug\net6.0\03Day oops.exe
+L:\DotNet\03Day oops\bin\Debug\net6.0\03Day oops.deps.json
+L:\DotNet\03Day oops\bin\Debug\net6.0\03Day oops.runtimeconfig.json
+L:\DotNet\03Day oops\bin\Debug\net6.0\03Day oops.dll
+L:\DotNet\03Day oops\bin\Debug\net6.0\03Day oops.pdb
+L:\DotNet\03Day oops\obj\Debug\net6.0\03Day oops.dll
+L:\DotNet\03Day oops\obj\Debug\net6.0\refint\03Day oops.dll
+L:\DotNet\03Day oops\obj\Debug\net6.0\03Day oops.pdb
+L:\DotNet\03Day oops\obj\Debug\net6.0\03Day oops.genruntimeconfig.cache
+L:\DotNet\03Day oops\obj\Debug\net6.0\ref\03Day oops.dll
