@@ -1,0 +1,15 @@
+L:\DotNet\06DayDelegates\bin\Debug\net6.0\06DayDelegates.exe
+L:\DotNet\06DayDelegates\bin\Debug\net6.0\06DayDelegates.deps.json
+L:\DotNet\06DayDelegates\bin\Debug\net6.0\06DayDelegates.runtimeconfig.json
+L:\DotNet\06DayDelegates\bin\Debug\net6.0\06DayDelegates.dll
+L:\DotNet\06DayDelegates\bin\Debug\net6.0\06DayDelegates.pdb
+L:\DotNet\06DayDelegates\obj\Debug\net6.0\06DayDelegates.csproj.AssemblyReference.cache
+L:\DotNet\06DayDelegates\obj\Debug\net6.0\06DayDelegates.GeneratedMSBuildEditorConfig.editorconfig
+L:\DotNet\06DayDelegates\obj\Debug\net6.0\06DayDelegates.AssemblyInfoInputs.cache
+L:\DotNet\06DayDelegates\obj\Debug\net6.0\06DayDelegates.AssemblyInfo.cs
+L:\DotNet\06DayDelegates\obj\Debug\net6.0\06DayDelegates.csproj.CoreCompileInputs.cache
+L:\DotNet\06DayDelegates\obj\Debug\net6.0\06DayDelegates.dll
+L:\DotNet\06DayDelegates\obj\Debug\net6.0\refint\06DayDelegates.dll
+L:\DotNet\06DayDelegates\obj\Debug\net6.0\06DayDelegates.pdb
+L:\DotNet\06DayDelegates\obj\Debug\net6.0\06DayDelegates.genruntimeconfig.cache
+L:\DotNet\06DayDelegates\obj\Debug\net6.0\ref\06DayDelegates.dll

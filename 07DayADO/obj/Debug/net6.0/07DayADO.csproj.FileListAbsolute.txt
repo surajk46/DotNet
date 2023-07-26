@@ -1,0 +1,17 @@
+L:\DotNet\07DayADO\bin\Debug\net6.0\07DayADO.exe
+L:\DotNet\07DayADO\bin\Debug\net6.0\07DayADO.deps.json
+L:\DotNet\07DayADO\bin\Debug\net6.0\07DayADO.runtimeconfig.json
+L:\DotNet\07DayADO\bin\Debug\net6.0\07DayADO.dll
+L:\DotNet\07DayADO\bin\Debug\net6.0\07DayADO.pdb
+L:\DotNet\07DayADO\bin\Debug\net6.0\MySqlConnector.dll
+L:\DotNet\07DayADO\obj\Debug\net6.0\07DayADO.csproj.AssemblyReference.cache
+L:\DotNet\07DayADO\obj\Debug\net6.0\07DayADO.GeneratedMSBuildEditorConfig.editorconfig
+L:\DotNet\07DayADO\obj\Debug\net6.0\07DayADO.AssemblyInfoInputs.cache
+L:\DotNet\07DayADO\obj\Debug\net6.0\07DayADO.AssemblyInfo.cs
+L:\DotNet\07DayADO\obj\Debug\net6.0\07DayADO.csproj.CoreCompileInputs.cache
+L:\DotNet\07DayADO\obj\Debug\net6.0\07DayADO.csproj.CopyComplete
+L:\DotNet\07DayADO\obj\Debug\net6.0\07DayADO.dll
+L:\DotNet\07DayADO\obj\Debug\net6.0\refint\07DayADO.dll
+L:\DotNet\07DayADO\obj\Debug\net6.0\07DayADO.pdb
+L:\DotNet\07DayADO\obj\Debug\net6.0\07DayADO.genruntimeconfig.cache
+L:\DotNet\07DayADO\obj\Debug\net6.0\ref\07DayADO.dll

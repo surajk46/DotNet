@@ -48,7 +48,7 @@ namespace _03Day_oops
 
     class main3
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             Console.WriteLine("Enter a number:-");
             int num=int.Parse(Console.ReadLine());

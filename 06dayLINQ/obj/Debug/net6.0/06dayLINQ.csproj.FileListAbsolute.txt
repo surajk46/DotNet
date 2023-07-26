@@ -1,0 +1,15 @@
+L:\DotNet\06dayLINQ\obj\Debug\net6.0\06dayLINQ.csproj.AssemblyReference.cache
+L:\DotNet\06dayLINQ\obj\Debug\net6.0\06dayLINQ.GeneratedMSBuildEditorConfig.editorconfig
+L:\DotNet\06dayLINQ\obj\Debug\net6.0\06dayLINQ.AssemblyInfoInputs.cache
+L:\DotNet\06dayLINQ\obj\Debug\net6.0\06dayLINQ.AssemblyInfo.cs
+L:\DotNet\06dayLINQ\obj\Debug\net6.0\06dayLINQ.csproj.CoreCompileInputs.cache
+L:\DotNet\06dayLINQ\bin\Debug\net6.0\06dayLINQ.exe
+L:\DotNet\06dayLINQ\bin\Debug\net6.0\06dayLINQ.deps.json
+L:\DotNet\06dayLINQ\bin\Debug\net6.0\06dayLINQ.runtimeconfig.json
+L:\DotNet\06dayLINQ\bin\Debug\net6.0\06dayLINQ.dll
+L:\DotNet\06dayLINQ\bin\Debug\net6.0\06dayLINQ.pdb
+L:\DotNet\06dayLINQ\obj\Debug\net6.0\06dayLINQ.dll
+L:\DotNet\06dayLINQ\obj\Debug\net6.0\refint\06dayLINQ.dll
+L:\DotNet\06dayLINQ\obj\Debug\net6.0\06dayLINQ.pdb
+L:\DotNet\06dayLINQ\obj\Debug\net6.0\06dayLINQ.genruntimeconfig.cache
+L:\DotNet\06dayLINQ\obj\Debug\net6.0\ref\06dayLINQ.dll
